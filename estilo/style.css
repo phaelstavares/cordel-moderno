@@ -8,6 +8,7 @@
 html, body {
     min-height: 100vh;
     background-color: #a9a9a9;
+    font-family: "Sriracha", cursive;
 }
 
 header {
@@ -19,10 +20,14 @@ header {
 header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
+    font-family: "Passion One", sans-serif;
+    font-size: 6vw;
 }
 
 header > p {
     padding-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3vw;
 }
 
 header a, footer a {
@@ -40,6 +45,7 @@ section {
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 5%;
+    font-size: 3vw;
 }
 
 section.normal {
@@ -50,7 +56,6 @@ section.normal {
 section.imagem {
     background-color: #1d1d1d8e;
     color: #ffffff;
-    width: 350px;
 }
 
 footer {
@@ -58,4 +63,5 @@ footer {
     text-align: center;
     color: #ffffff;
     padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
