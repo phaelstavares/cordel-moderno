@@ -68,6 +68,7 @@ section.imagem > p {
     display: inline-block;
     padding: 20px;
     text-shadow: 1.5px 1.5px 0px #000000;
+    padding: 2em;
 }
 
 section#img1 {
